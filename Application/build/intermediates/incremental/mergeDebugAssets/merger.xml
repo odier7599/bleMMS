@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndSample\android-BluetoothMMS\Application\src\main\assets"/><source path="D:\AndSample\android-BluetoothMMS\Application\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\AndSample\android-BluetoothMMS\Application\src\debug\assets"/></dataSet></merger>
