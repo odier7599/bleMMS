@@ -232,6 +232,10 @@
         "source": "C:\\Users\\odier\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\b558e9f36423e1a483bdb452b2449576\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
+        "merged": "D:\\AndSample\\android-BluetoothMMS\\Application\\build\\intermediates\\res\\merged\\debug\\drawable_translucent.xml.flat",
+        "source": "D:\\AndSample\\android-BluetoothMMS\\Application\\src\\main\\res\\drawable\\translucent.xml"
+    },
+    {
         "merged": "D:\\AndSample\\android-BluetoothMMS\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\odier\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\b558e9f36423e1a483bdb452b2449576\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
     },
