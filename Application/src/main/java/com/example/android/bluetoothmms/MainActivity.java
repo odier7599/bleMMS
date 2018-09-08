@@ -49,10 +49,10 @@ public class MainActivity extends SampleActivityBase {
         setContentView(R.layout.activity_main);
 
         if (savedInstanceState == null) {
-            FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-            BluetoothChatFragment fragment = new BluetoothChatFragment();
-            transaction.replace(R.id.sample_content_fragment, fragment);
-            transaction.commit();
+                FragmentTransaction transaction = super.getSupportFragmentManager().beginTransaction();
+                BluetoothChatFragment fragment = new BluetoothChatFragment();
+                transaction.replace(R.id.sample_content_fragment, fragment);
+                transaction.commit();
         }
     }
 
@@ -82,7 +82,7 @@ public class MainActivity extends SampleActivityBase {
                 } else {
                     output.setDisplayedChild(0);
                 }
-                supportInvalidateOptionsMenu();
+                invalidateOptionsMenu();
                 return true;
         }
         return super.onOptionsItemSelected(item);
@@ -105,6 +105,6 @@ public class MainActivity extends SampleActivityBase {
                 .findFragmentById(R.id.log_fragment);
         msgFilter.setNext(logFragment.getLogView());
 
-        Log.i(TAG, "Ready");
+        Log.i(TAG,"ready");
     }
 }

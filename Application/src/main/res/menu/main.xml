@@ -15,9 +15,12 @@
   -->
 
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
-      xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
       tools:ignore="AppCompatResource">
-    <item android:id="@+id/menu_toggle_log"
-          android:showAsAction="always"
-          android:title="@string/sample_show_log" />
+    <item
+        android:id="@+id/menu_toggle_log"
+        android:title="@string/sample_show_log"
+        android:icon="@drawable/log"
+        android:showAsAction="ifRoom" />
 </menu>

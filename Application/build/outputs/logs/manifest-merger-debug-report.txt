@@ -3,18 +3,18 @@ manifest
 ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
 INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
 INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\69b5a79cc765d54b9fe157cbc40a1361\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\46ecc2320cdeb19df3bf4ab1a0588c90\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\08c02361eb85122798927e646f748527\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\b558e9f36423e1a483bdb452b2449576\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\340e1be6ac7a3991812f99b58cd5fd24\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\c6493ba527353551ed5f155af9ff5b14\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\32a4c2ffe5bd4438e9a5802f5f6dbd85\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\34cab7cba3e009d89bad9093ecd08b40\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\1c2a6e291307e34231cfa794cdee891e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\fe5a3ba0b6537128a339feeeac7a5273\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\9b2be6db9fe51590a3700fe34d41c230\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9edb5598707dc87a5c055be78a371340\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d843b1e80382d3238b45fdc8b911612f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\125baa05c31eb8f1e68264297583c577\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\e7065ff7a003c61d0bc58a63ebc8f333\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\24961bf9c8bfe1d9a7765af8837b033d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\764c0ed585df822bd826eb4ace2389b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\21c66ea23ad87cd7c566c0de0d36dab2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\1fccd486babaf67179eb4f38befd195b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\deed8a48d61a803474db6f91a1e767df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\f34677bafcf28b1748bd7ffe508187b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\cf88f6e992f8fb3f5f4f8844779713be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2d38cda1406c84500e67f8b810ffdb31\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3ca7d6f4e45f6a733d8afb2a0917929a\AndroidManifest.xml:17:1-24:12
 INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
 INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
 	package
@@ -42,7 +42,7 @@ ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifes
 	android:label
 		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:32:9-41
 	android:icon
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:31:9-43
+		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:31:9-47
 	android:allowBackup
 		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:30:9-35
 	android:theme
@@ -79,30 +79,30 @@ uses-sdk
 INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
 INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\69b5a79cc765d54b9fe157cbc40a1361\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\69b5a79cc765d54b9fe157cbc40a1361\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\46ecc2320cdeb19df3bf4ab1a0588c90\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\46ecc2320cdeb19df3bf4ab1a0588c90\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\08c02361eb85122798927e646f748527\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\08c02361eb85122798927e646f748527\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\b558e9f36423e1a483bdb452b2449576\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\b558e9f36423e1a483bdb452b2449576\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\340e1be6ac7a3991812f99b58cd5fd24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\340e1be6ac7a3991812f99b58cd5fd24\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\c6493ba527353551ed5f155af9ff5b14\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\c6493ba527353551ed5f155af9ff5b14\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\32a4c2ffe5bd4438e9a5802f5f6dbd85\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\32a4c2ffe5bd4438e9a5802f5f6dbd85\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\34cab7cba3e009d89bad9093ecd08b40\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\34cab7cba3e009d89bad9093ecd08b40\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\1c2a6e291307e34231cfa794cdee891e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\1c2a6e291307e34231cfa794cdee891e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\fe5a3ba0b6537128a339feeeac7a5273\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\fe5a3ba0b6537128a339feeeac7a5273\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\9b2be6db9fe51590a3700fe34d41c230\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\9b2be6db9fe51590a3700fe34d41c230\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9edb5598707dc87a5c055be78a371340\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9edb5598707dc87a5c055be78a371340\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d843b1e80382d3238b45fdc8b911612f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d843b1e80382d3238b45fdc8b911612f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\125baa05c31eb8f1e68264297583c577\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\125baa05c31eb8f1e68264297583c577\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\e7065ff7a003c61d0bc58a63ebc8f333\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\e7065ff7a003c61d0bc58a63ebc8f333\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\24961bf9c8bfe1d9a7765af8837b033d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\24961bf9c8bfe1d9a7765af8837b033d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\764c0ed585df822bd826eb4ace2389b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\764c0ed585df822bd826eb4ace2389b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\21c66ea23ad87cd7c566c0de0d36dab2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\21c66ea23ad87cd7c566c0de0d36dab2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\1fccd486babaf67179eb4f38befd195b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\1fccd486babaf67179eb4f38befd195b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\deed8a48d61a803474db6f91a1e767df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\deed8a48d61a803474db6f91a1e767df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\f34677bafcf28b1748bd7ffe508187b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\f34677bafcf28b1748bd7ffe508187b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\cf88f6e992f8fb3f5f4f8844779713be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\cf88f6e992f8fb3f5f4f8844779713be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2d38cda1406c84500e67f8b810ffdb31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2d38cda1406c84500e67f8b810ffdb31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3ca7d6f4e45f6a733d8afb2a0917929a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3ca7d6f4e45f6a733d8afb2a0917929a\AndroidManifest.xml:20:5-22:41
 INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
 INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
 	android:targetSdkVersion

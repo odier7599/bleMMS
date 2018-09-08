@@ -28,7 +28,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/bler_ound"
+        android:icon="@drawable/bluetoothicon"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
 

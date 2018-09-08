@@ -47,6 +47,6 @@ public class SampleActivityBase extends FragmentActivity {
         LogWrapper logWrapper = new LogWrapper();
         Log.setLogNode(logWrapper);
 
-        Log.i(TAG, "Ready");
+        Log.i(TAG, "SampleActReady");
     }
 }
