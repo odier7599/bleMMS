@@ -1,4 +1,4 @@
-#Sat Sep 08 13:39:21 CST 2018
-base.0=D\:\\AndSample\\android-BluetoothMMS\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Mon Sep 10 15:41:46 CST 2018
+base.0=D\:\\AndSample\\bleMMS\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,115 +1,115 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
-INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
-INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d843b1e80382d3238b45fdc8b911612f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\125baa05c31eb8f1e68264297583c577\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\e7065ff7a003c61d0bc58a63ebc8f333\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\24961bf9c8bfe1d9a7765af8837b033d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\764c0ed585df822bd826eb4ace2389b8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\21c66ea23ad87cd7c566c0de0d36dab2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\1fccd486babaf67179eb4f38befd195b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\deed8a48d61a803474db6f91a1e767df\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\f34677bafcf28b1748bd7ffe508187b8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\cf88f6e992f8fb3f5f4f8844779713be\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2d38cda1406c84500e67f8b810ffdb31\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3ca7d6f4e45f6a733d8afb2a0917929a\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
-INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
+ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
+INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
+INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\8b5da60bbb4a56ad2411511d8d449795\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\fb7e62e69262bfcabd392e7219e750cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\f9e44dd6f4942377ad898c0eeed9d9d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\c3b2456d33b39453ff1ca8f4967cef3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\a33fecf83b3918d1d25645fa2406a58e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5e91a7c8587f74399ce4492e6b406105\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\1aeaea24f856c5a3a6615fabb68b0c26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\7501efe19cb682b317fbe5586072baf2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\915c7c2fd6da8a78a5862e7f5f97015b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\04079581a550cf375e80cc1a6ae3a4a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\65330a19e97dc5c8cff3d5af30ab60a0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\4d48861d7227aaa99228e54a707d5635\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
+INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:18:1-53:12
 	package
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:19:5-47
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:19:5-47
 	android:versionName
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:22:5-30
-		INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
-		INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:22:5-30
+		INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:20:5-63
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:20:5-63
 	android:versionCode
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:21:5-28
-		INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
-		INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:21:5-28
+		INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:26:5-73
+ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:26:5-73
 	android:name
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:26:22-71
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:26:22-71
 uses-permission#android.permission.BLUETOOTH
-ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:27:5-67
+ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:27:5-67
 	android:name
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:27:22-65
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:27:22-65
 application
-ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:29:5-51:19
+ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:29:5-51:19
 	android:label
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:32:9-41
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:32:9-41
 	android:icon
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:31:9-47
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:31:9-47
 	android:allowBackup
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:30:9-35
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:30:9-35
 	android:theme
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:33:9-40
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:33:9-40
 activity#com.example.android.bluetoothmms.MainActivity
-ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:35:9-43:20
+ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:35:9-43:20
 	android:label
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:38:13-45
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:38:13-45
 	android:configChanges
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:37:13-63
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:37:13-63
 	android:name
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:36:13-41
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:36:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:39:13-42:29
+ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:39:13-42:29
 action#android.intent.action.MAIN
-ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:40:17-68
+ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:40:17-68
 	android:name
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:40:25-66
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:41:17-76
+ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:41:17-76
 	android:name
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:41:27-74
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:41:27-74
 activity#com.example.android.bluetoothmms.DeviceListActivity
-ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:45:9-49:63
+ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:45:9-49:63
 	android:label
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:48:13-50
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:48:13-50
 	android:configChanges
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:47:13-63
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:47:13-63
 	android:theme
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:49:13-61
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:49:13-61
 	android:name
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml:46:13-47
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml:46:13-47
 uses-sdk
-INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
-INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d843b1e80382d3238b45fdc8b911612f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\d843b1e80382d3238b45fdc8b911612f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\125baa05c31eb8f1e68264297583c577\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\125baa05c31eb8f1e68264297583c577\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\e7065ff7a003c61d0bc58a63ebc8f333\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\e7065ff7a003c61d0bc58a63ebc8f333\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\24961bf9c8bfe1d9a7765af8837b033d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\24961bf9c8bfe1d9a7765af8837b033d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\764c0ed585df822bd826eb4ace2389b8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\764c0ed585df822bd826eb4ace2389b8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\21c66ea23ad87cd7c566c0de0d36dab2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\21c66ea23ad87cd7c566c0de0d36dab2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\1fccd486babaf67179eb4f38befd195b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\1fccd486babaf67179eb4f38befd195b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\deed8a48d61a803474db6f91a1e767df\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\deed8a48d61a803474db6f91a1e767df\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\f34677bafcf28b1748bd7ffe508187b8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\f34677bafcf28b1748bd7ffe508187b8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\cf88f6e992f8fb3f5f4f8844779713be\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\cf88f6e992f8fb3f5f4f8844779713be\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2d38cda1406c84500e67f8b810ffdb31\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\2d38cda1406c84500e67f8b810ffdb31\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3ca7d6f4e45f6a733d8afb2a0917929a\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\odier\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\3ca7d6f4e45f6a733d8afb2a0917929a\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
-INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
+INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
+INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\8b5da60bbb4a56ad2411511d8d449795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\8b5da60bbb4a56ad2411511d8d449795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\fb7e62e69262bfcabd392e7219e750cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\fb7e62e69262bfcabd392e7219e750cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\f9e44dd6f4942377ad898c0eeed9d9d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\f9e44dd6f4942377ad898c0eeed9d9d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\c3b2456d33b39453ff1ca8f4967cef3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\c3b2456d33b39453ff1ca8f4967cef3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\a33fecf83b3918d1d25645fa2406a58e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\a33fecf83b3918d1d25645fa2406a58e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5e91a7c8587f74399ce4492e6b406105\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\5e91a7c8587f74399ce4492e6b406105\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\1aeaea24f856c5a3a6615fabb68b0c26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\1aeaea24f856c5a3a6615fabb68b0c26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\7501efe19cb682b317fbe5586072baf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\7501efe19cb682b317fbe5586072baf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\915c7c2fd6da8a78a5862e7f5f97015b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\915c7c2fd6da8a78a5862e7f5f97015b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\04079581a550cf375e80cc1a6ae3a4a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\04079581a550cf375e80cc1a6ae3a4a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\65330a19e97dc5c8cff3d5af30ab60a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\65330a19e97dc5c8cff3d5af30ab60a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\4d48861d7227aaa99228e54a707d5635\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\sliang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\4d48861d7227aaa99228e54a707d5635\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
+INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
-		INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
-		ADDED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
-		INJECTED from D:\AndSample\android-BluetoothMMS\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
+		ADDED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AndSample\bleMMS\Application\src\main\AndroidManifest.xml

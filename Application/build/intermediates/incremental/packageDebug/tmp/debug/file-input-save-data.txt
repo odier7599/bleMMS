@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Fri Sep 07 23:27:31 CST 2018
+#Mon Sep 10 15:41:46 CST 2018
 0.baseType=DIRECTORY
-0.base=D\:\\AndSample\\android-BluetoothMMS\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.base=D\:\\AndSample\\bleMMS\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
 0.set=DEX
 count=1

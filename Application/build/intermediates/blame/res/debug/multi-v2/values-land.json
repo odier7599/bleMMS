@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndSample\\android-BluetoothMMS\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "D:\\AndSample\\bleMMS\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\odier\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\24961bf9c8bfe1d9a7765af8837b033d\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\sliang\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\c3b2456d33b39453ff1ca8f4967cef3c\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

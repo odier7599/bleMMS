@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndSample\\android-BluetoothMMS\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+            "outputFile": "D:\\AndSample\\bleMMS\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\odier\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2d38cda1406c84500e67f8b810ffdb31\\res\\values-ur\\values-ur.xml",
+                    "source": "C:\\Users\\sliang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\65330a19e97dc5c8cff3d5af30ab60a0\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\odier\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\24961bf9c8bfe1d9a7765af8837b033d\\res\\values-ur\\values-ur.xml",
+                    "source": "C:\\Users\\sliang\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\c3b2456d33b39453ff1ca8f4967cef3c\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
