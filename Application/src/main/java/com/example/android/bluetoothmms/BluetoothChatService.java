@@ -172,6 +172,7 @@ public class BluetoothChatService {
 
         // Cancel the thread that completed the connection
         if (mConnectThread != null) {
+            Log.i(TAG, "mConnectThread.cancel()");
             mConnectThread.cancel();
             mConnectThread = null;
         }
@@ -193,6 +194,7 @@ public class BluetoothChatService {
         }
 
         // Start the thread to manage the connection and perform transmissions
+        Log.i(TAG, "new ConnectedThread");
         mConnectedThread = new ConnectedThread(socket, socketType);
         mConnectedThread.start();
 
@@ -391,6 +393,7 @@ public class BluetoothChatService {
         public ConnectThread(BluetoothDevice device, boolean secure) {
             mmDevice = device;
             BluetoothSocket tmp = null;
+            Log.i(TAG, "ConnectThread Construct");
             mSocketType = secure ? "Secure" : "Insecure";
 
             // Get a BluetoothSocket for a connection with the
@@ -407,6 +410,7 @@ public class BluetoothChatService {
                 Log.i(TAG, "Socket Type: " + mSocketType + "create() failed");
             }
             mmSocket = tmp;
+            Log.i(TAG, "got connected Socket");
             mState = STATE_CONNECTING;
         }
 
@@ -446,6 +450,7 @@ public class BluetoothChatService {
         public void cancel() {
             try {
                 mmSocket.close();
+                Log.i(TAG, " ConnectThread socket close");
             } catch (IOException e) {
                 Log.i(TAG, "close() of connect " + mSocketType + " socket failed");
             }

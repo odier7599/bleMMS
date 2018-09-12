@@ -19,7 +19,7 @@ package com.example.android.common.activities;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 
-import com.example.android.common.logger.Log;
+import android.util.Log;
 
 /**
  * Base launcher activity, to handle most of the common plumbing for samples.
